@@ -1,6 +1,6 @@
 package Day_3;
 
-public class program {
+public class Program {
     public static void main(String[] args){
         String s = " Java Programming ";
 
