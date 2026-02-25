@@ -4,7 +4,7 @@ class Main{
     public static void main(String[] args){
 
         //user input
-        Scanner sc=new Scanner(System.in);
+        Scanner sc = new Scanner(System.in);
 
         //number of trials
         int no_of_trials=5;
